@@ -1,0 +1,12 @@
+.notification {
+    position: fixed;
+    align-items: center;
+    background-color: #415072;
+    color: #fff;
+    padding: 10px 18px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    font-size: 14px;
+    z-index: 9999;
+}
+

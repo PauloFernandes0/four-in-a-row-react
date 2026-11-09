@@ -1,0 +1,44 @@
+.header {
+    width: 100%;
+    max-width: 800px;
+    padding: 1rem 2rem;
+    background-color: #004080;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1.5rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .status {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .turn {
+    font-size: 1.1rem;
+  }
+  
+  .reset-button {
+    padding: 0.4rem 1rem;
+    background-color: #ffcc00;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #333;
+    transition: background-color 0.3s;
+  }
+  
+  .reset-button:hover {
+    background-color: #ffb700;
+  }
+  

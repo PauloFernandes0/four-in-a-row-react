@@ -1,0 +1,23 @@
+.footer {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-top: 2px solid #004080;
+    border-radius: 12px;
+    color: #333;
+    box-shadow: 0 -2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .status-message {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .credits {
+    font-size: 0.85rem;
+    color: #777;
+  }
+  
